@@ -5,7 +5,6 @@ using namespace std;
 
 int main()
 {
-
     string a,s;
 
     cout<<"Enter regular expression: ";
